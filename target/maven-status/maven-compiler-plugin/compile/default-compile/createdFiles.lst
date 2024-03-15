@@ -1,0 +1,4 @@
+com\lucky_russiano\entity\MyUser$MyUserBuilder.class
+com\lucky_russiano\Main.class
+com\lucky_russiano\entity\MyUser.class
+com\lucky_russiano\service\UserService.class

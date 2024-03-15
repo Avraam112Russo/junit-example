@@ -1,0 +1,4 @@
+com\lucky_russiano\service\paramResolver\UserServiceParamResolver.class
+com\lucky_russiano\service\service\UserServiceTest.class
+com\lucky_russiano\service\customLauncher\CustomTestLauncher.class
+com\lucky_russiano\service\service\UserServiceTest$LoginTests.class
